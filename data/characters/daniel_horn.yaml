@@ -1,0 +1,18 @@
+id: DANIEL001
+name: Daniel Horn
+age: 52
+gender: "M"
+is_player: false
+bio: |
+  A big, broad-shouldered man, Daniel's face is deeply lined from years in the sun and wind. He has a slow,
+  deliberate way of moving and speaking. His six cows are his livelihood and his pride. He's a traditional
+  patriarch, expecting hard work and obedience from his family. Devout in a quieter, more stoic way than Caleb,
+  he is fair but can be stern. He values land, livestock, and strong family bonds above all.
+relationships:
+  spouse_id: ELIZA001
+  parent_ids: []
+  children_ids: [OLIVIA001, PENELOPE001, RUTH001, DANJR001]
+  sibling_ids: []
+assets: []
+skills: []
+traits: []

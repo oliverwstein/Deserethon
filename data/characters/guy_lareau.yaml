@@ -1,0 +1,18 @@
+id: GUY001
+name: Guy Lareau
+age: 45
+gender: "M"
+is_player: false
+bio: |
+  A trapper from a long line of French trappers in Louisiana, Guy is lean, leathery, and moves with a quiet,
+  almost animal grace. He is a bit eccentric but speaks several Indian languages and is deeply knowledgeable
+  about the wilderness, hunting, and tracking. His Indian wife, Nita, is his anchor. He’s not overtly religious
+  in the Mormon sense but has his own spiritual connection to nature.
+relationships:
+  spouse_id: NITA001
+  parent_ids: []
+  children_ids: [SUSANNA001, TRINIAN001]
+  sibling_ids: []
+assets: []
+skills: []
+traits: []

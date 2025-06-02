@@ -1,0 +1,18 @@
+id: FRED001
+name: Frederick Thorne
+age: 23
+gender: "M"
+is_player: false
+bio: |
+  The youngest man in the group, Doctor Frederick "Fred" Thorne is slender with intense, burning dark eyes that
+  reflect his devout nature. Highly intelligent and a recent, fervent convert to Mormonism, Fred is idealistic,
+  earnest, and sometimes a bit naive. He's a competent doctor for his age, but his faith sometimes leads him to
+  prioritize prayer if conflicted. Unmarried, he sees it as his duty to serve the flock. His bond with his twin, Fanny, is paramount.
+relationships:
+spouse_id: null
+parent_ids: [] # Parents deceased
+children_ids: []
+sibling_ids: [FANNY001]
+assets: []
+skills: []
+traits: []

@@ -1,0 +1,18 @@
+id: ELIZA001
+name: Eliza Horn
+age: 50
+gender: "F"
+is_player: false
+bio: |
+  Looking her age, tired from years of hard work, raising four children, and the rigors of the trail, Eliza
+  nevertheless has a resilient spirit in her eyes. The matriarch of the Horn family, she is pragmatic,
+  no-nonsense, and deeply loves her children. She defers to Daniel in public but likely wields considerable
+  influence in private. Her hands are work-worn, and her movements economical and practiced.
+relationships:
+  spouse_id: DANIEL001
+  parent_ids: []
+  children_ids: [OLIVIA001, PENELOPE001, RUTH001, DANJR001]
+  sibling_ids: []
+assets: []
+skills: []
+traits: []

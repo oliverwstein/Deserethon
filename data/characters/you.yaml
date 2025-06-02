@@ -1,0 +1,24 @@
+# player.yaml
+id: PLAYER001
+name: Elias Vance
+age: 32
+gender: "M"
+is_player: true
+bio: |
+  A brilliant young man, his mind was first sharpened by the rigors of philosophy in the esteemed halls of Eastern academia.
+  However, the call of fortune and adventure proved too strong, luring him to the raw, untamed lands of Texas.
+  There, his path intertwined with that of Sam Houston, fighting with distinction. When the Mexican-American War
+  erupted, Elias's inherent leadership and tactical acumen saw him rise to the rank of officer, a position he
+  held with honor. It was amidst the smoke and chaos of war that he encountered a fervent Mormon missionary,
+  whose words of faith and a promised land resonated deep within his soul, offering a new purpose.
+  With the war's conclusion, Elias set his sights West, a recent but earnest convert, carrying the bearing of a commander,
+  the keen intellect of a scholar, and the unyielding resilience forged in battle. He is a man accustomed to making
+  hard choices, and inspiring others to follow.
+relationships: # As the player character arrives without established family in this specific group
+  spouse_id: null
+  parent_ids: []
+  children_ids: []
+  sibling_ids: []
+assets: []
+skills: [] # Reflecting background and innate talents
+traits: [] # Defining personality aspects

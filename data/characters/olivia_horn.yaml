@@ -1,0 +1,18 @@
+id: OLIVIA001
+name: Olivia Horn
+age: 25
+gender: "F"
+is_player: false
+bio: |
+  Strong and capable like her father, Olivia has dark hair usually tied back practically. She’s not conventionally
+  pretty but possesses a handsome, wholesome look and intelligent, direct brown eyes. An expert with cows,
+  particularly in all aspects of dairy work, she's practical, organized, and doesn't suffer fools gladly.
+  She has a good head for managing resources and labor.
+relationships:
+  spouse_id: null
+  parent_ids: [DANIEL001, ELIZA001]
+  children_ids: []
+  sibling_ids: [PENELOPE001, RUTH001, DANJR001]
+assets: []
+skills: []
+traits: []

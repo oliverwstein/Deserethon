@@ -1,0 +1,19 @@
+id: BEN001
+name: Benjamin Cobb
+age: 38
+gender: "M"
+is_player: false
+bio: |
+  Wiry and sun-browned, Ben Cobb has a restless energy about him. His sharp, assessing eyes and quick, sometimes
+  cynical, grin hint at a more worldly nature. He's a capable farmer, focused on corn, claiming it's primarily for
+  animal feed, though the glint in his eye suggests he knows it could be distilled into alcohol if circumstances
+  (and community rules) allowed. He's frustrated by their childlessness and can be sharp-tongued or prone to
+  brooding. He came West for a fresh start and perhaps a bit more freedom than he found back East.
+relationships:
+  spouse_id: CAROLINE001
+  parent_ids: []
+  children_ids: []
+  sibling_ids: []
+assets: []
+skills: []
+traits: []

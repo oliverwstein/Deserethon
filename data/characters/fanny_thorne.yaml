@@ -1,0 +1,19 @@
+id: FANNY001
+name: Fanny Thorne
+age: 23
+gender: "F"
+is_player: false
+bio: |
+  Strikingly lovely, Fanny possesses a mind every bit as keen and intense as her twin brother Fred's. Her dark eyes,
+  however, are filled with sharp intelligence, skepticism, and a spark of mischief. Proficient in herb lore,
+  chemistry, and midwifery, she's often more practically effective than her brother. Less keen on Mormonism,
+  finding its dogma stifling, her love for Fred is absolute; she came West solely because the notion of being
+  separated was unthinkable. They lost their parents as teens and had to rely on each other.
+relationships:
+  spouse_id: null
+  parent_ids: [] # Parents deceased
+  children_ids: []
+  sibling_ids: [FRED001]
+assets: []
+skills: []
+traits: []

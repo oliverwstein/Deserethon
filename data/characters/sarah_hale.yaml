@@ -1,0 +1,18 @@
+id: SARAH001
+name: Sarah Hale
+age: 25
+gender: "F"
+is_player: false
+bio: |
+  Pretty and wholesome, with a kind smile and warm eyes, Sarah clearly adores her husband Emmett and their son Hal.
+  As the daughter of a master smith, she understands the life of a craftsman and is deeply supportive and loving.
+  She made a significant sacrifice leaving her family to be with Emmett but carries herself with a quiet contentment,
+  focused on creating a warm home for her family.
+relationships:
+  spouse_id: EMMETT001
+  parent_ids: []
+  children_ids: [HAL001]
+  sibling_ids: []
+assets: []
+skills: []
+traits: []

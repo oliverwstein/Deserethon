@@ -1,0 +1,18 @@
+id: SUSANNA001
+name: Susanna Lareau
+age: 20
+gender: "F"
+is_player: false
+bio: |
+  The older Lareau daughter, Susanna is a striking blend of her parents, with her mother's dark complexion and
+  high cheekbones, possibly her father's lighter eye color, and a voluptuous, curvy figure she carries with
+  unselfconscious, earthy grace. Sensual, artistic, and deeply connected to the earth, she has a gift for
+  ceramics, able to find and work clay into beautiful and practical forms.
+relationships:
+  spouse_id: null
+  parent_ids: [GUY001, NITA001]
+  children_ids: []
+  sibling_ids: [TRINIAN001]
+assets: []
+skills: []
+traits: []

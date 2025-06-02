@@ -1,0 +1,17 @@
+id: HAL001
+name: Harold Hale
+age: 5
+gender: "M"
+is_player: false
+bio: |
+  Known as Hal, he is a miniature version of his father Emmett, often seen "helping" at the forge or wherever work
+  is being done, usually getting adorably underfoot. A typical curious and energetic five-year-old, his presence
+  adds a touch of innocence and hope to the group.
+relationships:
+  spouse_id: null
+  parent_ids: [EMMETT001, SARAH001]
+  children_ids: []
+  sibling_ids: []
+assets: []
+skills: []
+traits: []

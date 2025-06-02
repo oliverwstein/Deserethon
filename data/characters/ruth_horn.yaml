@@ -1,0 +1,18 @@
+id: RUTH001
+name: Ruth Horn
+age: 17
+gender: "F"
+is_player: false
+bio: |
+  The prettiest of the Horn sisters in a cherubic, wholesome way, Ruth has wide, innocent blue eyes and rosy cheeks.
+  Sweet-natured, devout, and eager to please, she loves children and animals and is very family-oriented.
+  She’s perhaps a bit naive but has a deep inner strength rooted in her faith. Her developing figure is notably
+  womanly.
+relationships:
+  spouse_id: null
+  parent_ids: [DANIEL001, ELIZA001]
+  children_ids: []
+  sibling_ids: [OLIVIA001, PENELOPE001, DANJR001]
+assets: []
+skills: []
+traits: []

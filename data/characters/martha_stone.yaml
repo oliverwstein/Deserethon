@@ -1,0 +1,19 @@
+id: MARTHA001
+name: Martha Stone
+age: 45
+gender: "F"
+is_player: false
+bio: |
+  The quiet strength beside Abe, Martha is a devout woman, her faith a source of immense comfort and resilience.
+  Her face is lined from sun and worry, but her smile is warm and encompassing. She's an excellent cook when
+  ingredients are available, a skilled mender, and knows her way around common herbs for minor ailments,
+  though not with the scientific precision of Fanny. She is the emotional anchor of her family, her main
+  concern being the well-being, safety, and happiness of her three daughters.
+relationships:
+  spouse_id: ABE001
+  parent_ids: []
+  children_ids: [JULIA001, KATE001, LAURA001]
+  sibling_ids: []
+assets: []
+skills: []
+traits: []

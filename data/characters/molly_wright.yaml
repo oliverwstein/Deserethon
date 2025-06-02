@@ -1,0 +1,19 @@
+id: MOLLY001
+name: Molly Wright
+age: 19
+gender: "F"
+is_player: false
+bio: |
+  Tall and willowy, Molly carries an air of bored sophistication she hasn't quite managed to shed from her
+  upbringing in Philadelphia. Her dark hair is usually styled with more care than the other young women,
+  a subtle rebellion. Smart, articulate, and with expressive, intelligent brown eyes, she deeply misses
+  city society and finds frontier life, along with her father's religious fervor, rather oppressive.
+  She's not openly rebellious but possesses a sharp tongue and a cynical wit.
+relationships:
+  spouse_id: null
+  parent_ids: [CALEB001] # Mother deceased
+  children_ids: []
+  sibling_ids: [NINIAN001]
+assets: []
+skills: []
+traits: []

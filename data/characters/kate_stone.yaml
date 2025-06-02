@@ -1,0 +1,18 @@
+id: KATE001
+name: Kate Stone
+age: 22
+gender: "F"
+is_player: false
+bio: |
+  More overtly pretty than Julia, Kate has a sprinkle of freckles across her nose and her mother's warmer brown eyes.
+  She once had a livelier energy, though it's been subdued by the recent, tragic loss of her fiancé, who was part
+  of the main caravan group they were separated from. She's still a hard worker, good with animals, and has a
+  knack for gardening. Resilient beneath her sorrow, she might be prone to moments of wistfulness or sharp frustration.
+relationships:
+  spouse_id: null
+  parent_ids: [ABE001, MARTHA001]
+  children_ids: []
+  sibling_ids: [JULIA001, LAURA001]
+assets: []
+skills: []
+traits: []

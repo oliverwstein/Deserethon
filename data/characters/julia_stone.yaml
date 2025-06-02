@@ -1,0 +1,19 @@
+id: JULIA001
+name: Julia Stone
+age: 26
+gender: "F"
+is_player: false
+bio: |
+  The eldest of the Stone sisters, Julia is tall with a strong, capable build honed by years of farm work.
+  Plainly pretty, with her father's steady blue eyes, she's not one for frills but carries an inherent
+  elegance in her practical movements. Serious, responsible, and somewhat motherly towards her younger
+  sisters, she’s a hard worker, skilled in all aspects of farm life. Quiet but observant, she possesses
+  a dry wit if one can draw it out. She feels the weight of her position as the eldest.
+relationships:
+  spouse_id: null
+  parent_ids: [ABE001, MARTHA001]
+  children_ids: []
+  sibling_ids: [KATE001, LAURA001]
+assets: []
+skills: []
+traits: []

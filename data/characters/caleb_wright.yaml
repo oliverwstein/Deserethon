@@ -1,0 +1,18 @@
+id: CALEB001
+name: Caleb Wright
+age: 40
+gender: "M"
+is_player: false
+bio: |
+  A widower, Caleb's profound grief was the catalyst for his fervent, almost fanatical, conversion to Mormonism.
+  He sold his successful hotel in Philadelphia, bought a flock of fifteen sheep, and headed West, seeing himself
+  as a literal shepherd to his small flock. Lean and weathered, with startlingly intense blue eyes, he can be
+  preachy and judgmental but is also genuinely kind beneath his religious zeal. His faith is his guiding light.
+relationships:
+  spouse_id: null # Widower
+  parent_ids: []
+  children_ids: [MOLLY001, NINIAN001]
+  sibling_ids: []
+assets: []
+skills: []
+traits: []

@@ -1,0 +1,18 @@
+id: DANJR001
+name: Daniel Horn Jr.
+age: 16
+gender: "M"
+is_player: false
+bio: |
+  Strikingly mature for his age, Daniel Jr. "Dan Jr." is tall and already showing his father's sturdy build,
+  though he has his mother's kinder eyes. Responsible and hardworking, he idolizes his father and is eager to
+  learn trades from both him and Emmett, the farrier. He’s good with the cows and surprisingly adept with tools.
+  He’s protective of his sisters and has a natural, youthful bond with Ninian Wright.
+relationships:
+  spouse_id: null
+  parent_ids: [DANIEL001, ELIZA001]
+  children_ids: []
+  sibling_ids: [OLIVIA001, PENELOPE001, RUTH001]
+assets: []
+skills: []
+traits: []

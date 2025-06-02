@@ -1,0 +1,18 @@
+id: CAROLINE001
+name: Caroline Cobb
+age: 27
+gender: "F"
+is_player: false
+bio: |
+  Pretty in a delicate, almost fragile way, Caroline possesses large, expressive blue eyes that often hold a
+  hint of deep sadness. She is gentle, kind, and desperately yearns for children. Her marriage to Ben,
+  once perhaps hopeful, has been strained by their inability to conceive, a source of profound unhappiness
+  for her. She is devout in a quiet way, often praying for a miracle. She carries an air of loneliness.
+relationships:
+spouse_id: BEN001
+parent_ids: []
+children_ids: []
+sibling_ids: []
+assets: []
+skills: []
+traits: []

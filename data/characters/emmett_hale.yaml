@@ -1,0 +1,18 @@
+id: EMMETT001
+name: Emmett Hale
+age: 27
+gender: "M"
+is_player: false
+bio: |
+  A skilled farrier and blacksmith, Emmett has a strong, muscular build from years at the forge. Cheerful,
+  hardworking, and devoted to his wife Sarah and young son Hal, he is practical and resourceful. Marrying Sarah,
+  his master's daughter, was a love match that unfortunately angered her father, prompting their decision to head
+  West. With only a dozen horses in your small group, his skills will also be turned to crafting tools.
+relationships:
+  spouse_id: SARAH001
+  parent_ids: []
+  children_ids: [HAL001]
+  sibling_ids: []
+assets: []
+skills: []
+traits: []

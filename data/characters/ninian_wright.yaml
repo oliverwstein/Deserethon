@@ -1,0 +1,18 @@
+id: NINIAN001
+name: Ninian Wright
+age: 15
+gender: "F"
+is_player: false
+bio: |
+  Still showing some of the gangliness of youth but with hints of the beauty she's growing into, Ninian has big,
+  curious hazel eyes and a cloud of light brown, flyaway hair. Quieter than her sister Molly, she is more observant
+  and also unhappy about being dragged West, though she expresses it less overtly. She has a surprising practical
+  streak and a secret love for baking, a skill from her Philadelphia childhood. She’s imaginative and a little dreamy.
+relationships:
+  spouse_id: null
+  parent_ids: [CALEB001] # Mother deceased
+  children_ids: []
+  sibling_ids: [MOLLY001]
+assets: []
+skills: []
+traits: []

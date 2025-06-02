@@ -1,0 +1,18 @@
+id: LAURA001
+name: Laura Stone
+age: 18
+gender: "F"
+is_player: false
+bio: |
+  The youngest and most petite of the Stone sisters, Laura has a spark of mischief in her hazel eyes and a dimple
+  when she smiles. Nimble and quick, with a coltish grace, she's more spirited and adventurous than her older
+  sisters. Laura loves horses and is a natural rider. Curious about the world and less weighed down by
+  responsibility, she can be a little impulsive and outspoken, but is quick to laugh.
+relationships:
+  spouse_id: null
+  parent_ids: [ABE001, MARTHA001]
+  children_ids: []
+  sibling_ids: [JULIA001, KATE001]
+assets: []
+skills: []
+traits: []

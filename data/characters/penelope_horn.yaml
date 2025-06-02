@@ -1,0 +1,18 @@
+id: PENELOPE001
+name: Penelope Horn
+age: 21
+gender: "F"
+is_player: false
+bio: |
+  Softer and more rounded than her older sister Olivia, Penelope "Penny" Horn has a friendly, open face and warm
+  hazel eyes. She has a pleasant smile and a more easygoing demeanor. Cheerful and good-natured, she is an
+  excellent cheesemaker, a skill she's been diligently honing. Penny is more sociable than Olivia and enjoys
+  the communal aspects of life. She’s nurturing and patient.
+relationships:
+  spouse_id: null
+  parent_ids: [DANIEL001, ELIZA001]
+  children_ids: []
+  sibling_ids: [OLIVIA001, RUTH001, DANJR001]
+assets: []
+skills: []
+traits: []

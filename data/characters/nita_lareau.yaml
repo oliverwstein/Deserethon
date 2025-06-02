@@ -1,0 +1,18 @@
+id: NITA001
+name: Nita Lareau
+age: 38
+gender: "F"
+is_player: false
+bio: |
+  Guy's wife, Nita, is beautiful in a strong, serene way, with features reflecting her Native heritage.
+  Her dark, knowing eyes miss little, and her long black hair is often braided. Quiet, observant, and wise
+  in the ways of nature and human nature, she is the bedrock of Guy's family. She is skilled in traditional
+  Native crafts, hide tanning, and herbal remedies that differ from Fanny's European-based knowledge.
+relationships:
+  spouse_id: GUY001
+  parent_ids: []
+  children_ids: [SUSANNA001, TRINIAN001]
+  sibling_ids: []
+assets: []
+skills: []
+traits: []
