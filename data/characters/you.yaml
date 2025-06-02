@@ -1,6 +1,6 @@
 # player.yaml
 id: PLAYER001
-name: Elias Vance
+name: null
 age: 32
 gender: "M"
 is_player: true
