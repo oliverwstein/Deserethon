@@ -1,13 +1,13 @@
 # main.py
 import os
 from game_engine.game_runner import GameRunner
-from interface.cli_runner import CLIHandler
+from interface.cli_runner import CLIRunner
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 def main():
     game_runner = GameRunner(BASE_DIR)
-    client = CLIHandler(game_runner)
+    client = CLIRunner(game_runner)
     client.run()
 
 if __name__ == "__main__":
