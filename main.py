@@ -40,7 +40,7 @@ def main():
         if all_characters:
             print(f"\n--- All Loaded Characters ({len(all_characters)}) ---")
             for i, char_obj in enumerate(all_characters):
-                print(f"{i+1}. ID: {char_obj.id}")
+                print(f"{i+1}")
                 print(f"   Name: {char_obj.name}")
                 print(f"   Age: {char_obj.age}, Gender: {char_obj.gender}")
                 # You can choose to print the short description or full bio here for testing
