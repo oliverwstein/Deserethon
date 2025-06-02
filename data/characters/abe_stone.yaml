@@ -1,0 +1,19 @@
+id: ABE001
+name: Abraham Stone
+age: 47
+gender: "M"
+is_player: false
+bio: |
+  A man of the earth, Abe is practical, stoic, and deeply committed to his family and his faith, in that order.
+  He's seen hardship before and believes in honest toil. He plans to grow grain, primarily wheat and barley,
+  seeing them as the staples for bread and sustenance for the community. His dream for Deseret was simple:
+  good land, a peaceful community to raise his daughters right. He's not a great talker but a steady worker,
+  his hands gnarled like roots from years of farming. He respects strength, common sense, and proven results.
+relationships:
+spouse_id: MARTHA001
+parent_ids: [] # Assuming parents are not in this group or are deceased
+children_ids: [JULIA001, KATE001, LAURA001]
+sibling_ids: []
+assets: []
+skills: []
+traits: []
